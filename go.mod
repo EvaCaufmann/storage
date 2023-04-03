@@ -1,5 +1,6 @@
-module github.com/EvaCaufmann/storage
+module github.com/EvaCaufmann/storage 
 
 go 1.20
 
-require github.com/google/uuid v1.3.0 // indirect
+require github.com/google/uuid v1.3.0 
+// indirect
